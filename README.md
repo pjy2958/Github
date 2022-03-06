@@ -19,3 +19,5 @@
 - 파일에 대한 개별 변경 사항을 확정하는 작업.
 
 - Git의 경우 Commit message를 통해 변경사항, 새로운 기능 등 개발자가 남기고 싶은 메시지를 저장할 수 있다.
+
+[ 관련영상](https://www.youtube.com/watch?v=LXaQkLMm9bM&t=1s)
