@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Github 기초
+<br>
 
-You can use the [editor on GitHub](https://github.com/pjy2958/study_github/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Repository
+- Git의 가장 기본적인 요소로 프로젝트를 관리하는 저장소의 역할.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Repository는 프로젝트의 모든 파일(문서, 사진, 코드 등)과 파일들의 수정 기록을 저장.
 
-### Markdown
+- 협업 시, Repository의 파일들을 가져오고 수정하여 프로젝트를 진행.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Branch
+- 독립적인 작업을 진행하기 위한 다른 장소.
 
-```markdown
-Syntax highlighted code block
+- 서로 영향을 받지 않고, 여러 작업이 동시에 진행 가능.
 
-# Header 1
-## Header 2
-### Header 3
+- 다른 Branch와 병합하여, 하나의 브랜치로 모을 수 있다.
 
-- Bulleted
-- List
+## Command
+- 파일에 대한 개별 변경 사항을 확정하는 작업.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pjy2958/study_github/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Git의 경우 Commit message를 통해 변경사항, 새로운 기능 등 개발자가 남기고 싶은 메시지를 저장할 수 있다.
