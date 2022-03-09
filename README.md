@@ -36,4 +36,6 @@
 <iframe width="600" height="350" src="https://www.youtube.com/embed/LXaQkLMm9bM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
+## 학습후기
+- 학부생일 때는 
 
