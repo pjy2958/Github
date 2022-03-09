@@ -42,7 +42,6 @@
  <br>
  
  #### 관련링크
- 
  *박준영 개발 github 홈페이지 :* [pjy2958.github.io](https://pjy2958.github.io/)<br>
  *Github 홈페이지를 이용한 git사용법 :* [유튜브링크](https://www.youtube.com/watch?v=LXaQkLMm9bM&t=1s)<br>
  *sourcetree git사용법 :* [유튜브링크](https://www.youtube.com/watch?v=FNm5pdElevw&t=1s)<br>
