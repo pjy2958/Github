@@ -41,7 +41,7 @@
  학부생일 때는 단순히 Github 홈페이지에서 소스파일을 업로드하고 수정하는 부분만 진행해 보았는데, 이번 Git학습을 하면서 Github 홈페이지 뿐만아니라 eclipse, git bash, sourcetree라는 GUI환경에서 Github를 다루어봤습니다. 콘솔창을 통하여 리눅스 기본 명령어들을 다시한번 정리하고 복습하는 기회가 되었고, eclipse와 연동하는 과정에서 push기능이 제대로 동작하는 문제가 생겼는데, local과 remote의 fetch를 진행하여 문제를 해결했습니다. 또한 GUI환경에서 처음으로 사용해보았는데 직관적이고 쉽지만 다른환경에서 개발한 코드를 매번 가져와야되는 어려움이 있었습니다. 이번 Git 학습을 통해 다양한 환경에서 Git을 다루는 법을 배웠고 이전에 미진했던 개념들을 새로이 정리하는 기회가 되었습니다.
  <br>
  
- #### 관련링크<br>
+ #### 관련링크
  - *박준영 개발 github 홈페이지 :* [https://pjy2958.github.io/](https://pjy2958.github.io/)<br>
  - *Github 홈페이지를 이용한 git사용법 :* [https://www.youtube.com/watch?v=LXaQkLMm9bM&t=1s](https://www.youtube.com/watch?v=LXaQkLMm9bM&t=1s)<br>
  - *sourcetree git사용법 :* [https://www.youtube.com/watch?v=FNm5pdElevw&t=1s](https://www.youtube.com/watch?v=FNm5pdElevw&t=1s)<br>
