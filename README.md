@@ -34,7 +34,7 @@
 <br>
 
 - **Sourcetree를 이용한 git사용법**
-<iframe width="600" height="350" src="https://www.youtube.com/embed/LXaQkLMm9bM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="350" src="https://www.youtube.com/embed/FNm5pdElevw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 ## 학습후기
