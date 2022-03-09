@@ -30,10 +30,10 @@
 <br>
 
 ## Github 기초 작업 및 설명 영상
-#### Github 홈페이지를 git사용법
+- **Github 홈페이지를 이용한 git사용법**
 <iframe width="600" height="350" src="https://www.youtube.com/embed/LXaQkLMm9bM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Sourcetree를 이용한 git사용법
+- **Sourcetree를 이용한 git사용법**
 <iframe width="600" height="350" src="https://www.youtube.com/embed/LXaQkLMm9bM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
