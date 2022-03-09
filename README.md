@@ -45,4 +45,4 @@
  **관련링크-----------------------------------------------------------------------------------------------**
  - *박준영 Github 홈페이지 :* [https://pjy2958.github.io/](https://pjy2958.github.io/)<br>
  - *Github 홈페이지를 이용한 Git사용법 :* [https://www.youtube.com/watch?v=LXaQkLMm9bM&t=1s](https://www.youtube.com/watch?v=LXaQkLMm9bM&t=1s)<br>
- - *sourcetree Git사용법 :* [https://www.youtube.com/watch?v=FNm5pdElevw&t=1s](https://www.youtube.com/watch?v=FNm5pdElevw&t=1s)<br>
+ - *Sourcetree Git사용법 :* [https://www.youtube.com/watch?v=FNm5pdElevw&t=1s](https://www.youtube.com/watch?v=FNm5pdElevw&t=1s)<br>
